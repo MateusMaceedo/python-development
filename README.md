@@ -1,3 +1,5 @@
-<img class="python-logo" src="/static/img/python-logo.png" alt="python™">
-
-Learn Python Big Analist Data.
+<h1 align="center">
+<img src="https://www.python.org/static/img/python-logo.png" width="290" height="82">
+ <br>
+ Python Development
+</h1>
