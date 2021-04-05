@@ -17,6 +17,7 @@
 - [LearnCafe](https://www.learncafe.com/cursos/curso-de-programacao-em-python)
 - [Coursera PT1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos)
 - [Coursera PT2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+- [Repositório para divulgação de conteúdo DataScience](https://github.com/TeoCalvo/teomerefs)
 
 ### Pré-requisitos
 - Python 3+
