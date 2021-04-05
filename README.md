@@ -10,3 +10,4 @@
 - [Analysing structured data using pandas](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/pandas.ipynb)
 - [Map-Reduce programming and Apache Spark](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/spark-mapreduce.ipynb)
 - [Column-oriented databases with HBase and HappyBase](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/hbase-python-slides.ipynb)
+- [Learn Python](https://learnxinyminutes.com/docs/python/)
