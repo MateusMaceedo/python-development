@@ -30,3 +30,5 @@ pip install virtualenv
 python3-virtualenv
 ```
 
+### Criando Ambiente Virtual
+<img src="https://secureservercdn.net/198.71.233.96/36q.76e.myftpupload.com/wp-content/uploads/2021/03/5f6e374b5cd697c336eda16b_vmb8G9Wzdf76q0Ke_ikGnDoni_cNhrDjof8FGQP2_RAtS4r_7wh2Pz_o48TvThR5DofW0HDKrjH6AixfJm4VukdAhrSSbcH1VzeTAe_0VKm6TNzvcWkXrlZl8fq63Eb9hmzOoz9r.png" width="auto" height="auto" loading="auto">
