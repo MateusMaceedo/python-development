@@ -17,3 +17,16 @@
 - [LearnCafe](https://www.learncafe.com/cursos/curso-de-programacao-em-python)
 - [Coursera PT1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos)
 - [Coursera PT2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+
+### Pré-requisitos
+- Python 3+
+- Pip (gerenciador de pacotes do Python)
+- Acesso à internet
+- VSCode instalado
+
+```
+pip install nome_pacote
+pip install virtualenv
+python3-virtualenv
+```
+
